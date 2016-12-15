@@ -2,5 +2,20 @@
     <string name="app_name">LTCTraining</string>
     <string name="btn_sign_in">Sign In</string>
     <string name="btn_sign_up">Sign Up</string>
-    <string name="tv_sign_up">ສະໝັກສະມາຊິກ</string>
+
+    <string name="tv_sign_up">Register</string>
+    <string name="title_err_user">User Empty</string>
+    <string name="message_err_user">Please input username</string>
+    <string name="title_err_pass">Password Empty</string>
+    <string name="message_err_pass">Please input password</string>
+
+    <string name="title_space">Text Empty</string>
+    <string name="message_space">Please fill blank text</string>
+
+    <string name="title_user_false">User</string>
+    <string name="message_user_false">Invalided username</string>
+    <string name="title_pass_false">Password</string>
+    <string name="message_pass_false">Invalided password</string>
+    <string name="title_activity_service">Map</string>
+
 </resources>
